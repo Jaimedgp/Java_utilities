@@ -1,0 +1,1 @@
+public class LecturaIncorrecta extends Exception {}
